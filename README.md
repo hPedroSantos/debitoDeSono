@@ -1,5 +1,5 @@
 # Sobre
-Este projeto tem o intuito de calcular suas horas de sonos semanais e confronta-las com as horas de sono ideais
+Este projeto que tem o intuito de calcular as horas de sonos semanais e confronta-las com as horas de sono ideais
 para você e no final lhe entregar um resultado adequado sobre as informações do seu estado de sono
 
 ## Manipulando o codigo
